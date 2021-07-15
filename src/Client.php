@@ -2,7 +2,7 @@
 
 namespace Raulr\GooglePlayScraper;
 
-use Goutte\Client as BaseClient;
+use Raulr\GooglePlayScraper\Goutte\Client as BaseClient;
 use Symfony\Component\BrowserKit\Response;
 
 class Client extends BaseClient
