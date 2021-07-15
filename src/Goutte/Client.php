@@ -1,6 +1,8 @@
 <?php
 
 /*
+ * NHAYNES - This package was not being maintained and so I just copied the code here to make this work with Guzzle 7.
+ * 
  * This file is part of the Goutte package.
  *
  * (c) Fabien Potencier <fabien@symfony.com>

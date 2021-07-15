@@ -6,10 +6,11 @@
     "homepage": "https://github.com/raulr/google-play-scraper",
     "license": "MIT",
     "require": {
-        "symfony/browser-kit": "^4.4|^5.0",
-        "symfony/css-selector": "^4.4|^5.0",
-        "symfony/dom-crawler": "^4.4|^5.0",
-        "guzzlehttp/guzzle": "^6.0"
+        "php": ">=7.2.5",
+        "symfony/browser-kit": "^5.0",
+        "symfony/css-selector": "^5.0",
+        "symfony/dom-crawler": "^5.0",
+        "guzzlehttp/guzzle": "^7.0"
     },
     "authors": [
         {
